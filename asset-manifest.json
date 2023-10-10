@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zetamonk-analytics/static/css/main.ce08862b.css",
+    "main.js": "/zetamonk-analytics/static/js/main.9413e986.js",
+    "static/js/787.0ba196d5.chunk.js": "/zetamonk-analytics/static/js/787.0ba196d5.chunk.js",
+    "index.html": "/zetamonk-analytics/index.html",
+    "main.ce08862b.css.map": "/zetamonk-analytics/static/css/main.ce08862b.css.map",
+    "main.9413e986.js.map": "/zetamonk-analytics/static/js/main.9413e986.js.map",
+    "787.0ba196d5.chunk.js.map": "/zetamonk-analytics/static/js/787.0ba196d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce08862b.css",
+    "static/js/main.9413e986.js"
+  ]
+}
