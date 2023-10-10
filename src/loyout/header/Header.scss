@@ -1,0 +1,80 @@
+.App-header {
+    background-color: #1e1e54;
+
+    z-index: 101;
+    width: 100%;
+    background-color: #1e1e54;
+    padding: 15px 0;
+    position: fixed;
+    top: 0;
+    overflow: visible;
+
+    color: white;
+
+    .container {
+        justify-content: space-between;
+        align-items: center;
+        display: flex;
+        height: 100%;
+        max-width: 1120px;
+        padding-left: 24px;
+        padding-right: 24px;
+        overflow: visible;
+
+
+        .logo {
+
+            a {
+                color: white;
+                font-size: 32px;
+                text-decoration: none;
+                text-transform: uppercase;
+                font-weight: 600;
+            }
+        }
+
+        nav {
+            a {
+                text-decoration: none;
+                color: white;
+            }
+
+            li {
+                list-style: none;
+            }
+
+            .nav_links {
+                display: flex;
+                gap: 25px;
+                margin-bottom: 0;
+                color: white;
+
+                .main_link {
+                    position: relative;
+                    font-size: 18px;
+                    font-weight: 600;
+                    cursor: pointer;
+                    div{
+                        position: absolute;
+                        width: 500px;
+                        height: auto;
+                        
+                    }
+
+                    button {
+                        background: #e73a46;
+                        padding: 5px 10px;
+                        border: none;
+                        overflow: unset;
+                        color: white;
+                        font-size: 18px;
+                        font-weight: 500;
+                    }
+                }
+            }
+        }
+    }
+
+
+
+}
